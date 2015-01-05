@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2A216589-447A-4184-A66D-66062E3A688A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BadToDoList</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E75C5CDC9DF601EEF990A00736C0AF711C3D98AF</key>
+		<string>https://github.com/mohebmounir/BadToDoList.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BadToDoList.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E75C5CDC9DF601EEF990A00736C0AF711C3D98AF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mohebmounir/BadToDoList.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E75C5CDC9DF601EEF990A00736C0AF711C3D98AF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E75C5CDC9DF601EEF990A00736C0AF711C3D98AF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BadToDoList</string>
+		</dict>
+	</array>
+</dict>
+</plist>
